@@ -52,6 +52,18 @@ small
 	color:#B02424;
 }
 
+#fa-icon
+{
+	text-decoration: none;
+	color:black;
+}
+
+#fa-icon:hover
+{
+	color:#DC2E2E;
+}
+
+
 ::-webkit-scrollbar {
     width: 7px;
 }
