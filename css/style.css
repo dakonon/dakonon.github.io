@@ -63,6 +63,16 @@ small
 	color:#DC2E2E;
 }
 
+.form-control
+{
+	margin: 8px;
+}
+
+#profile-pictures
+{
+	width:180px;
+	height:180px;
+}
 
 ::-webkit-scrollbar {
     width: 7px;
